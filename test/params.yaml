@@ -1,0 +1,3 @@
+outdir: './results/'
+narrow_peak: true
+aligner: 'bowtie2'

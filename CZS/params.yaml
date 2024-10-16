@@ -1,0 +1,10 @@
+input: './samplesheet.csv'
+outdir: './results/'
+fasta: '../genome/Mus_musculus.GRCm38.dna_sm.primary_assembly.fa.gz'
+gtf: '../genome/Mus_musculus.GRCm38.102.gtf.gz'
+narrow_peak: true
+aligner: 'bowtie2'
+read_length: 150
+max_memory: '50.GB'
+max_cpus: 24
+save_reference: true

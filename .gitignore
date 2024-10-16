@@ -1,0 +1,16 @@
+1.bamCompare
+20240604ChIPseq_raw
+20240708ChIPseq_raw
+genome/*
+!genome/download.sh
+pipeline/*
+!pipeline/download.sh
+test/*
+!test/nextflow.config
+!test/params.yaml
+!test/run.sh
+CZS/*
+!CZS/nextflow.config
+!CZS/params.yaml
+!CZS/run.sh
+!CZS/samplesheet.csv

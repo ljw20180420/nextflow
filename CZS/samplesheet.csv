@@ -1,0 +1,17 @@
+sample,fastq_1,fastq_2,replicate,antibody,control,control_replicate
+DMSO_CTCF,/home/ljw/wuqiang/CZS/nextflow/20240604ChIPseq_raw/DMSO-CTCF/DMSO-CTCF_1.fq.gz,/home/ljw/wuqiang/CZS/nextflow/20240604ChIPseq_raw/DMSO-CTCF/DMSO-CTCF_2.fq.gz,1,CTCF,DMSO-Input,1
+DMSO_CTCF,/home/ljw/wuqiang/CZS/nextflow/20240708ChIPseq_raw/DMSO-CTCF/DMSO-CTCF_1.fq.gz,/home/ljw/wuqiang/CZS/nextflow/20240708ChIPseq_raw/DMSO-CTCF/DMSO-CTCF_2.fq.gz,2,CTCF,DMSO-Input,2
+DMSO-O1,/home/ljw/wuqiang/CZS/nextflow/20240604ChIPseq_raw/DMSO-O1/DMSO-O1_1.fq.gz,/home/ljw/wuqiang/CZS/nextflow/20240604ChIPseq_raw/DMSO-O1/DMSO-O1_2.fq.gz,1,O1,DMSO-Input,1
+DMSO-O1,/home/ljw/wuqiang/CZS/nextflow/20240708ChIPseq_raw/DMSO-O1/DMSO-O1_1.fq.gz,/home/ljw/wuqiang/CZS/nextflow/20240708ChIPseq_raw/DMSO-O1/DMSO-O1_2.fq.gz,1,O1,DMSO-Input,2
+DMSO-O2,/home/ljw/wuqiang/CZS/nextflow/20240604ChIPseq_raw/DMSO-O2/DMSO-O2_1.fq.gz,/home/ljw/wuqiang/CZS/nextflow/20240604ChIPseq_raw/DMSO-O2/DMSO-O2_2.fq.gz,1,O2,DMSO-Input,1
+DMSO-O2,/home/ljw/wuqiang/CZS/nextflow/20240708ChIPseq_raw/DMSO-O2/DMSO-O2_1.fq.gz,/home/ljw/wuqiang/CZS/nextflow/20240708ChIPseq_raw/DMSO-O2/DMSO-O2_2.fq.gz,1,O2,DMSO-Input,2
+DMSO-Input,/home/ljw/wuqiang/CZS/nextflow/20240604ChIPseq_raw/DMSO-Input/DMSO-Input_1.fq.gz,/home/ljw/wuqiang/CZS/nextflow/20240604ChIPseq_raw/DMSO-Input/DMSO-Input_2.fq.gz,1,,,
+DMSO-Input,/home/ljw/wuqiang/CZS/nextflow/20240708ChIPseq_raw/DMSO-Input/DMSO-Input_1.fq.gz,/home/ljw/wuqiang/CZS/nextflow/20240708ChIPseq_raw/DMSO-Input/DMSO-Input_2.fq.gz,2,,,
+V1_CTCF,/home/ljw/wuqiang/CZS/nextflow/20240604ChIPseq_raw/V1-CTCF/V1-CTCF_1.fq.gz,/home/ljw/wuqiang/CZS/nextflow/20240604ChIPseq_raw/V1-CTCF/V1-CTCF_2.fq.gz,1,CTCF,V1-Input,1
+V1_CTCF,/home/ljw/wuqiang/CZS/nextflow/20240708ChIPseq_raw/V1-CTCF/V1-CTCF_1.fq.gz,/home/ljw/wuqiang/CZS/nextflow/20240708ChIPseq_raw/V1-CTCF/V1-CTCF_2.fq.gz,2,CTCF,V1-Input,2
+V1-O1,/home/ljw/wuqiang/CZS/nextflow/20240604ChIPseq_raw/V1-O1/V1-O1_1.fq.gz,/home/ljw/wuqiang/CZS/nextflow/20240604ChIPseq_raw/V1-O1/V1-O1_2.fq.gz,1,O1,V1-Input,1
+V1-O1,/home/ljw/wuqiang/CZS/nextflow/20240708ChIPseq_raw/V1-O1/V1-O1_1.fq.gz,/home/ljw/wuqiang/CZS/nextflow/20240708ChIPseq_raw/V1-O1/V1-O1_2.fq.gz,1,O1,V1-Input,2
+V1-O2,/home/ljw/wuqiang/CZS/nextflow/20240604ChIPseq_raw/V1-O2/V1-O2_1.fq.gz,/home/ljw/wuqiang/CZS/nextflow/20240604ChIPseq_raw/V1-O2/V1-O2_2.fq.gz,1,O2,V1-Input,1
+V1-O2,/home/ljw/wuqiang/CZS/nextflow/20240708ChIPseq_raw/V1-O2/V1-O2_1.fq.gz,/home/ljw/wuqiang/CZS/nextflow/20240708ChIPseq_raw/V1-O2/V1-O2_2.fq.gz,1,O2,V1-Input,2
+V1-Input,/home/ljw/wuqiang/CZS/nextflow/20240604ChIPseq_raw/V1-Input/V1-Input_1.fq.gz,/home/ljw/wuqiang/CZS/nextflow/20240604ChIPseq_raw/V1-Input/V1-Input_2.fq.gz,1,,,
+V1-Input,/home/ljw/wuqiang/CZS/nextflow/20240708ChIPseq_raw/V1-Input/V1-Input_1.fq.gz,/home/ljw/wuqiang/CZS/nextflow/20240708ChIPseq_raw/V1-Input/V1-Input_2.fq.gz,2,,,
