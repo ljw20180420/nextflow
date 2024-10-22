@@ -5,10 +5,6 @@ genome/*
 !genome/download.sh
 pipeline/*
 !pipeline/download.sh
-test/*
-!test/nextflow.config
-!test/params.yaml
-!test/run.sh
 CZS/*
 !CZS/nextflow.config
 !CZS/params.yaml
