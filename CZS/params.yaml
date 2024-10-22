@@ -1,7 +1,7 @@
 input: './samplesheet.csv'
 outdir: './results/'
-fasta: '../genome/Mus_musculus.GRCm38.dna_sm.primary_assembly.fa.gz'
-gtf: '../genome/Mus_musculus.GRCm38.102.gtf.gz'
+fasta: '../genome/Mus_musculus.GRCm38.dna_sm.primary_assembly.fa'
+gtf: '../genome/Mus_musculus.GRCm38.102.gtf'
 narrow_peak: true
 aligner: 'bowtie2'
 read_length: 150
